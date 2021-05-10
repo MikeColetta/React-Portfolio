@@ -1,9 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Navbar from "./components/navbar"
 
 function App() {
   return (
+
+    <Router>
+    <Navbar />
     <div className="App">
+
+
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -19,6 +26,8 @@ function App() {
         </a>
       </header>
     </div>
+
+    </Router>
   );
 }
 
