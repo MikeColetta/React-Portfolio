@@ -16,10 +16,10 @@ function Navbar() {
     <div className="collapse navbar-collapse" id="portfolio-navbar">
         <ul className="navbar-nav ml-auto">
             <li className="dropdown-item">
-                <a href="#about-me" className="navlink">About</a>
+                <a href="/about" className="navlink">About</a>
             </li>
             <li className="dropdown-item">
-                <a href="#portfolio" className="navlink">Portfolio</a>
+                <a href="/portfolio" className="navlink">Portfolio</a>
             </li>
             <li className="dropdown-item">
                 <a href="#experience" className="navlink">Experience</a>
