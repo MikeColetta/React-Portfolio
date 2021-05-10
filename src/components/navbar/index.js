@@ -22,10 +22,10 @@ function Navbar() {
                 <a href="/portfolio" className="navlink">Portfolio</a>
             </li>
             <li className="dropdown-item">
-                <a href="#experience" className="navlink">Experience</a>
+                <a href="/experience" className="navlink">Experience</a>
             </li>
             <li className="dropdown-item">
-                <a href="#contact" className="navlink">Contact</a>
+                <a href="/contact" className="navlink">Contact</a>
             </li>
         </ul>
     </div>
