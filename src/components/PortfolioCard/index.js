@@ -1,7 +1,10 @@
 import React from "react";
 import "./style.css";
 
+
 function PortfolioCard(props) {
+    
+    console.log(props)
     return (
         <div className="card projectCard">
             <div className="card-body">

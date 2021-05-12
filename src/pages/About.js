@@ -1,3 +1,5 @@
+import mikeImage from "../assets/images/Mike.jpg";
+
 function About() {
     return (
         <div className="container my-2" id="about-me">
@@ -6,7 +8,7 @@ function About() {
                     <h2>About</h2>
                 </div>
                 <div className="card-body">
-                    <img src="Mike.jpg" className="card-img-top about-me-img" alt="Mike in San Diego."></img>
+                    <img src={mikeImage} className="card-img-top about-me-img" alt="Mike in San Diego."></img>
                     <p className="card-text about-me-text">I’m a Seattle based comedian, podcaster, and coding student
                     originally from Alaska. I started comedy performing improv in the wheat-infested, cultural boomtown
                     of Pullman, Washington. There I joined the Nuthouse Improv Comedy Troupe, where I performed and
