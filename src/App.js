@@ -2,10 +2,10 @@ import './App.css';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from "./components/Navbar"
 import Footer from "./components/Footer"
-import About from "./pages/About"
-import Portfolio from './pages/Portfolio';
-import Experience from './pages/Experience';
-import Contact from './pages/Contact';
+import About from "./pages/About/About"
+import Portfolio from './pages/Portfolio/Portfolio';
+import Experience from './pages/Experience/Experience';
+import Contact from './pages/Contact/Contact';
 
 
 

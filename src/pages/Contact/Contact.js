@@ -1,11 +1,13 @@
+import "./style.css";
+
 function Contact() {
     return (
         <div className="container my-2" id="contact">
         <div className="card contactCard">
             <div className="card-header">
-                <h1>Contact</h1>
+                <h2>Contact</h2>
             </div>
-            <div className="row">
+            <div className="row iconRow">
                 <div className="card col-6 iconCard">
                     <a href="https://www.linkedin.com/in/mike-coletta/" target="_blank"><span
                             className="fa fa-linkedin fa-5x"></span></a>

@@ -1,0 +1,16 @@
+body {
+    background-image: url("../../assets/images/brick.jpg");
+    background-size: 640px;
+}
+
+h1 {
+    color: #156064;
+    font-family: 'Libre Baskerville', sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    color: #156064;
+    font-family: 'Libre Baskerville', sans-serif;
+    font-weight: bold;
+}

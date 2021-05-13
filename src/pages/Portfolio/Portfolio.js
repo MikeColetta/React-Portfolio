@@ -1,5 +1,5 @@
-import PortfolioCard from "../components/PortfolioCard";
-import portfolioProjects from "../assets/projects"
+import PortfolioCard from "../../components/PortfolioCard";
+import portfolioProjects from "../../assets/projects"
 
 function Portfolio() {
     return (
