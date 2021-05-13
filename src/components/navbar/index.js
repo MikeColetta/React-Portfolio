@@ -5,7 +5,7 @@ function Navbar() {
     return (
 <nav className="navbar sticky-top navbar-expand-md">
 <div className="container-fluid">
-    <a className="navbar-brand">
+    <a href="https://mikecoletta.github.io/React-Portfolio/" className="navbar-brand">
         <h1 className="navbar-name">Mike Coletta</h1>
     </a>
     <button className="navbar-toggler dropdownButton" type="button" data-toggle="collapse" data-target="#portfolio-navbar"
@@ -15,16 +15,16 @@ function Navbar() {
     <div className="collapse navbar-collapse" id="portfolio-navbar">
         <ul className="navbar-nav ml-auto">
             <li className="dropdown-item">
-                <a href="/about" className="navlink">About</a>
+                <a href="/React-Portfolio/about" className="navlink">About</a>
             </li>
             <li className="dropdown-item">
-                <a href="/portfolio" className="navlink">Portfolio</a>
+                <a href="/React-Portfolio/portfolio" className="navlink">Portfolio</a>
             </li>
             <li className="dropdown-item">
-                <a href="/experience" className="navlink">Experience</a>
+                <a href="/React-Portfolio/experience" className="navlink">Experience</a>
             </li>
             <li className="dropdown-item">
-                <a href="/contact" className="navlink">Contact</a>
+                <a href="/React-Portfolio/contact" className="navlink">Contact</a>
             </li>
         </ul>
     </div>
