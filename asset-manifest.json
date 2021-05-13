@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.c49f78ab.chunk.css",
+    "main.css": "/React-Portfolio/static/css/main.7120bcab.chunk.css",
     "main.js": "/React-Portfolio/static/js/main.92e45d0e.chunk.js",
     "main.js.map": "/React-Portfolio/static/js/main.92e45d0e.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.e2592f41.js",
@@ -10,7 +10,7 @@
     "static/js/3.0a490a9c.chunk.js": "/React-Portfolio/static/js/3.0a490a9c.chunk.js",
     "static/js/3.0a490a9c.chunk.js.map": "/React-Portfolio/static/js/3.0a490a9c.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.c49f78ab.chunk.css.map": "/React-Portfolio/static/css/main.c49f78ab.chunk.css.map",
+    "static/css/main.7120bcab.chunk.css.map": "/React-Portfolio/static/css/main.7120bcab.chunk.css.map",
     "static/js/2.6163a75a.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.6163a75a.chunk.js.LICENSE.txt",
     "static/media/CodingQuiz.60fd8ef3.JPG": "/React-Portfolio/static/media/CodingQuiz.60fd8ef3.JPG",
     "static/media/DankReviews.0402b817.JPG": "/React-Portfolio/static/media/DankReviews.0402b817.JPG",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.e2592f41.js",
     "static/js/2.6163a75a.chunk.js",
-    "static/css/main.c49f78ab.chunk.css",
+    "static/css/main.7120bcab.chunk.css",
     "static/js/main.92e45d0e.chunk.js"
   ]
 }
