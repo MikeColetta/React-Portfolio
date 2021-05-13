@@ -14,11 +14,11 @@ function App() {
     <Router basename={process.env.PUBLIC_URL}>
       <Navbar />
       <Switch>
-        <Route exact path="/" component={About} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/portfolio" component={Portfolio} />
-        <Route exact path="/experience" component={Experience} />
-        <Route exact path="/contact" component={Contact} />
+        <Route exact basename={process.env.PUBLIC_URL} path="/" component={About} />
+        <Route exact basename={process.env.PUBLIC_URL} path="/about" component={About} />
+        <Route exact basename={process.env.PUBLIC_URL} path="/portfolio" component={Portfolio} />
+        <Route exact basename={process.env.PUBLIC_URL} path="/experience" component={Experience} />
+        <Route exact basename={process.env.PUBLIC_URL} path="/contact" component={Contact} />
       </Switch>
       <Footer />
     </Router>
