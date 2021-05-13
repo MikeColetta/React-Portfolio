@@ -11,7 +11,7 @@ import Contact from './pages/Contact/Contact';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Navbar />
         <Route exact path="/" component={About} />
         <Route exact path="/about" component={About} />
