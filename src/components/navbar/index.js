@@ -5,7 +5,7 @@ function Navbar() {
     return (
 <nav className="navbar sticky-top navbar-expand-md">
 <div className="container-fluid">
-    <a href="/" className="navbar-brand">
+    <a className="navbar-brand">
         <h1 className="navbar-name">Mike Coletta</h1>
     </a>
     <button className="navbar-toggler dropdownButton" type="button" data-toggle="collapse" data-target="#portfolio-navbar"
