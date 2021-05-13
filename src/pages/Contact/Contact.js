@@ -7,6 +7,9 @@ function Contact() {
             <div className="card-header">
                 <h2>Contact</h2>
             </div>
+            <div>
+            <h5 className="card-body contactSubheading">Feel free to send me an email at coletta.mike@gmail.com.</h5>
+            </div>
             <div className="row iconRow">
                 <div className="card col-6 iconCard">
                     <a href="https://www.linkedin.com/in/mike-coletta/" target="_blank" rel="noreferrer"><span

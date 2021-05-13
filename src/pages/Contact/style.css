@@ -1,3 +1,7 @@
+.contactSubheading {
+    text-align: center;
+}
+
 .contactCard {
     display: flex;
     justify-content: space-evenly;
