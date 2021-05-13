@@ -36,7 +36,7 @@ function About() {
                         <li className="techListItem">Sequelize</li>
                         <li className="techListItem">Handlebars</li>
                         <li className="techListItem">MongoDB</li>
-
+                        <li className="techListItem">React.js</li>
                     </ul>
                     <p className="card-text about-me-text">My goal for the coding boot camp are to learn as much as possible. So
                     far my enthusiasm for the subject has made that not difficult at all. I look forward to my future

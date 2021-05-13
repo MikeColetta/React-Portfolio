@@ -23,6 +23,7 @@
 
 .techList {
     text-align: center;
+    padding: initial;
 }
 .techListItem {
     display: inline;
