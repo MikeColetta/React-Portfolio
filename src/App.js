@@ -15,10 +15,10 @@ function App() {
       <Navbar />
       <Switch>
         <Route exact basename={process.env.PUBLIC_URL} path="/" component={About} />
-        <Route exact basename={process.env.PUBLIC_URL} path="/about" component={About} />
-        <Route exact basename={process.env.PUBLIC_URL} path="/portfolio" component={Portfolio} />
-        <Route exact basename={process.env.PUBLIC_URL} path="/experience" component={Experience} />
-        <Route exact basename={process.env.PUBLIC_URL} path="/contact" component={Contact} />
+        <Route exact basename={process.env.PUBLIC_URL} path="/React-Portfolio/about" component={About} />
+        <Route exact basename={process.env.PUBLIC_URL} path="/React-Portfolio/portfolio" component={Portfolio} />
+        <Route exact basename={process.env.PUBLIC_URL} path="/React-Portfolio/experience" component={Experience} />
+        <Route exact basename={process.env.PUBLIC_URL} path="/React-Portfolio/contact" component={Contact} />
       </Switch>
       <Footer />
     </Router>
