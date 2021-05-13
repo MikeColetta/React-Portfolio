@@ -10,7 +10,7 @@ function Portfolio() {
                 </div>
                 <div className="row portfolioCard">
                     {portfolioProjects.map(project => {
-                        return <PortfolioCard project={project} />
+                        return <PortfolioCard project={project} key={project.title} />
                     })}
 
                 </div>
