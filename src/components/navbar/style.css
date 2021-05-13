@@ -2,6 +2,13 @@
     background-color: #FFFBFC;
 }
 
+.dropdownButton {
+    background-color: #156064;
+    color: white;
+}
+.dropdownIcon {
+    color: white;
+}
 .navbar-brand {
     float: left;
     background-color: #156064;

@@ -8,9 +8,9 @@ function Navbar() {
     <a href="/" className="navbar-brand">
         <h1 className="navbar-name">Mike Coletta</h1>
     </a>
-    <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#portfolio-navbar"
+    <button className="navbar-toggler dropdownButton" type="button" data-toggle="collapse" data-target="#portfolio-navbar"
         aria-controls="portfolio-navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span className="navbar-toggler-icon"></span>
+        <span className="navbar-toggler-icon dropdownIcon">-</span>
     </button>
     <div className="collapse navbar-collapse" id="portfolio-navbar">
         <ul className="navbar-nav ml-auto">
