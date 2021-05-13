@@ -14,11 +14,14 @@ I created a portfolio website using React.js that includes about me, portfolio, 
 5. [Credits](#credits)
 
 ## Installation
-[Deployed Link]()
+[Deployed Link](https://mikecoletta.github.io/React-Portfolio/)
 
 ## Usage
 
-![Screenshot 1]()
+![Screenshot 1](./src/assets/images/Screenshot1.JPG)
+![Screenshot 2](./src/assets/images/Screenshot2.JPG)
+![Screenshot 3](./src/assets/images/Screenshot3.JPG)
+![Screenshot 4](./src/assets/images/Screenshot4.JPG)
 
 ## License
     
